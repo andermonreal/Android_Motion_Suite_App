@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change BOTH strings as required -->
+    <string name="back4app_app_id">MODIFY</string>
+    <string name="back4app_client_key">MODIFY</string>
+
+    <!-- MAIN -->
+    <string name="titulo_main">Maquina de traje de movimiento</string>
+    <string name="boton_simular">Simular Maquina</string>
+    <string name="boton_historico">Historial de Maquinas</string>
+    <string name="boton_ultimo">Última Maquina</string>
+
+    <!-- ESTADO ACTUAL -->
+    <string name="titulo_estado">Datos de la máquina</string>
+    <string name="id">Identificador de la maquina: </string>
+    <string name="altura">Altura: </string>
+    <string name="anchura">Anchura: </string>
+    <string name="estado">Estado: </string>
+    <string name="bateria">Bateria: </string>
+    <string name="simulacion">Sensor: </string>
+    <string name="boton_sensor">Ver sensor</string>
+    <string name="boton_lista">Volver a la lista de maquinas</string>
+
+    <!-- ESTADO ACTUAL SENSOR -->
+    <string name="titulo_estado_sensor">Datos del sensor</string>
+    <string name="id_sensor">Identificador de la simulación: </string>
+    <string name="cabeza">Cabeza: </string>
+    <string name="manoDer">Mano derecha: </string>
+    <string name="manoIzq">Mano izquierda: </string>
+    <string name="pieDer">Pie derecho: </string>
+    <string name="pieIzq">Pie izquierdo: </string>
+    <string name="boton_vuleta_maquina">Volver a la maquina</string>
+
+    <!-- HISTORICO -->
+    <string name="titulo_historico">Historial de maquinas</string>
+
+    <!-- SIMULAR DATOS -->
+    <string name="titulo_simular">Simulación máquina</string>
+    <string name="texto_simular">Pincha 5 veces la pantalla para introducir los datos de los sensores. El orden será: cabeza, mano derecha, mano izquierda, pie derecho y por último pie izquierdo.</string>
+    <string name="altura_simular">Altura de la persona: </string>
+    <string name="anchura_simular">Anchura de la persona: </string>
+    <string name="estado_simular">Estado del traje: </string>
+    <string name="bateria_simular">Bateria del traje: </string>
+    <string name="simulaicon_simular">Simulación</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_foto">Sacar una foto</string>
+
+
+    <string name="boton_vuelta">Volver al menu principal</string>
+
+</resources>
